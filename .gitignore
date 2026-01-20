@@ -1,0 +1,14 @@
+# ---- R ----
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# ---- Logs ----
+*.log
