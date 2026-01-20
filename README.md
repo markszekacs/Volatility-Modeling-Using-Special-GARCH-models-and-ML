@@ -103,7 +103,7 @@ All results in this repository are generated automatically by a single script.
 
 From the project root, run:
 
-    Rscript scripts/01_run_all.R
+    Rscript 08_run_all.R
 
 This script executes the full pipeline:
 1. Loads and preprocesses the input data
