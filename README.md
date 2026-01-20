@@ -183,5 +183,3 @@ This repository is suitable for:
 ## Disclaimer
 
 This project is intended for research and educational purposes only and does not constitute financial advice.
-
-## Project Structure
