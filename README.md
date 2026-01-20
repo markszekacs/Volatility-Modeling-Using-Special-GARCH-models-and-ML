@@ -82,7 +82,7 @@ Backtest results are saved as tables and figures for further analysis.
 
 ## Project Structure
 
-''' text
+```text
 
 ├── R/
 │ ├── 00_config.R # Global configuration (paths, rolling window, VaR level)
@@ -95,7 +95,7 @@ Backtest results are saved as tables and figures for further analysis.
 │ └── 07_outputs.R # Plotting and table export utilities
 │ └── 08_run_all.R # One-command full reproduction
 └── README.md
-'''
+```
 
 ## How to Run the Project
 
